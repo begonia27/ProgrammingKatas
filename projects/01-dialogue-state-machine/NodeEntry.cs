@@ -4,5 +4,5 @@ public class NodeEntry
 {
     public int EntryId;
     public string StoryText;
-    public List<OptionEntry> OptionEntry;
+    public List<OptionEntry> OptionEntryList;
 }
